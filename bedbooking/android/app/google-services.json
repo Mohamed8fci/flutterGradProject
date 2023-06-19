@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1079212830522",
+    "project_id": "bookingbed-7d11f",
+    "storage_bucket": "bookingbed-7d11f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079212830522:android:3752f980c89516642b6a03",
+        "android_client_info": {
+          "package_name": "com.example.bedbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079212830522-b9o07hqp8cjmj2g6cqbvc8rl0fmosk22.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bedbooking",
+            "certificate_hash": "f6bee68b0924d71373e7a397d8bea5168fa87b79"
+          }
+        },
+        {
+          "client_id": "1079212830522-2g8rskvhtqd792g4pep0afetfvfqe7fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3gdhchwtzOgfljepW0ftXHuiidZC9Mls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079212830522-2g8rskvhtqd792g4pep0afetfvfqe7fm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
